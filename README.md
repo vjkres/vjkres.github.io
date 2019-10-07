@@ -1,2 +1,2 @@
-# vjkres.github.io
-vjkres Website
+# Home
+Vijay KV
